@@ -1,0 +1,1 @@
+Title = askFromGPT("Suggest a very short (2-3 words) title for this legal case solution:" + "" + str(text).strip() + "" + "The title should be appropriate for a legal case solution. Provide only the title (without quotation marks or other symbols) and no further text.")
