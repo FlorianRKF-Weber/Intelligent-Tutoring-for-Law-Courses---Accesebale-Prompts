@@ -1,0 +1,101 @@
+{
+  "conversations": [
+    {
+      "question": "Hello! I would like to start legal writing. Can you help me?",
+      "answers": [
+        "Hello! I am CaseCoach. My goal is to help you learn the IRAC method for legal writing."
+      ],
+      "buttons": [
+        "What is legal writing?",
+        "What is the IRAC style?"
+      ],
+      "video": ""
+    },
+    {
+      "question":  "What is the IRAC style?",
+      "answers": [
+        "The IRAC style is a method of legal writing that is commonly used in law schools and legal practice. IRAC stands for Issue, Rule, Application, and Conclusion. This method provides a structured approach to analyzing and writing about legal issues. The IRAC style helps writers to organize their thoughts, present their arguments clearly, and reach a logical conclusion. By following the IRAC method, writers can develop their analytical and writing skills, as well as improve their ability to communicate complex legal concepts effectively."
+      ],
+      "buttons": [
+        "What is legal writing?",
+        "What are the components of the IRAC style?"
+      ],
+      "video": ""
+    },
+    {
+      "question": "What is legal writing?",
+      "answers": [
+        "Legal writing is a type of writing that is used in the legal profession to communicate legal information and analysis. Legal writing is an essential skill for lawyers, law students, and legal professionals, as it is used to draft legal documents, memos, briefs, and other legal materials. Legal writing requires writers to be clear, concise, and precise in their communication, as well as to follow the conventions of legal writing. Legal writing is an important skill for lawyers, as it is used to present legal arguments, analyze legal issues, and communicate legal information to clients, judges, and other legal professionals."
+      ],
+      "buttons": [
+        "What is the IRAC style?"
+      ],
+      "video": ""
+    },
+    {
+      "question": "What are the components of the IRAC style?",
+      "answers": [
+        "The IRAC style consists of four main components: Issue, Rule, Application, and Conclusion. These components are used to structure legal analysis and writing, and to present arguments in a logical and persuasive manner. The Issue component identifies the legal issue or question that needs to be addressed. The Rule component sets out the relevant legal rules or principles that apply to the issue. The Application component applies the legal rules to the facts of the case, and analyzes how the rules should be interpreted and applied. The Conclusion component summarizes the analysis and reaches a logical conclusion based on the application of the legal rules to the facts of the case. By following the IRAC method, writers can develop their analytical and writing skills, as well as improve their ability to communicate complex legal concepts effectively."
+      ],
+      "buttons": [
+        "Explain the Issue component more.",
+        "Explain the Rule component more.",
+        "Explain the Application component more.",
+        "Explain the Conclusion component more."
+      ],
+      "video": ""
+    },
+    {
+      "question": "Explain the Issue component more.",
+      "answers": [
+        "The Issue component of the IRAC style identifies the legal issue or question that needs to be addressed in the analysis. The Issue component is the starting point of the analysis, and sets out the specific legal question that the writer will be discussing. The Issue component should be clear, concise, and focused on the key legal question that needs to be answered. By identifying the legal issue at the outset, writers can structure their analysis and argumentation around the specific question that needs to be addressed."
+      ],
+      "buttons": [
+        "What are the components of the IRAC style?",
+        "Explain the Rule component more.",
+        "Explain the Application component more.",
+        "Explain the Conclusion component more."
+      ],
+      "video": ""
+    },
+    {
+      "question": "Explain the Rule component more.",
+      "answers": [
+        "The Rule component of the IRAC style sets out the relevant legal rules or principles that apply to the issue. The Rule component is the legal authority that the writer will be applying to the facts of the case in order to analyze the legal issue. The Rule component should be clear, concise, and accurate, and should set out the legal rules or principles that are relevant to the issue at hand. By setting out the legal rules at the outset, writers can provide a clear and logical basis for their analysis and argumentation."
+      ],
+      "buttons": [
+        "What are the components of the IRAC style?",
+        "Explain the Issue component more.",
+        "Explain the Application component more.",
+        "Explain the Conclusion component more."
+      ],
+      "video": ""
+    },
+    {
+      "question": "Explain the Application component more.",
+      "answers": [
+        "The Application component of the IRAC style applies the legal rules to the facts of the case, and analyzes how the rules should be interpreted and applied. The Application component is the heart of the analysis, and involves applying the relevant legal rules to the specific facts of the case in order to reach a conclusion. The Application component should be clear, logical, and well-reasoned, and should demonstrate the writer's understanding of the legal rules and their application to the facts of the case. By analyzing the application of the legal rules to the facts, writers can develop their analytical and writing skills, as well as improve their ability to communicate complex legal concepts effectively."
+      ],
+      "buttons": [
+        "What are the components of the IRAC style?",
+        "Explain the Issue component more.",
+        "Explain the Rule component more.",
+        "Explain the Conclusion component more."
+      ],
+      "video": ""
+    },
+    {
+      "question": "Explain the Conclusion component more.",
+      "answers": [
+        "The Conclusion component of the IRAC style summarizes the analysis and reaches a logical conclusion based on the application of the legal rules to the facts of the case. The Conclusion component should be clear, concise, and persuasive, and should summarize the key points of the analysis and the writer's argumentation. The Conclusion component should demonstrate the writer's understanding of the legal issues and their ability to reach a logical conclusion based on the application of the legal rules to the facts of the case. By summarizing the analysis and reaching a conclusion, writers can present their arguments in a clear and persuasive manner, and communicate their legal analysis effectively."
+      ],
+      "buttons": [
+        "What are the components of the IRAC style?",
+        "Explain the Issue component more.",
+        "Explain the Rule component more.",
+        "Explain the Application component more."
+      ],
+      "video": ""
+    }
+  ]
+}
